@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"aa update","image":"https://magazine.alumni.ubc.ca/sites/default/files/styles/max_1300x1300/public/2023-09/AIart-1920x1080.jpg?itok=i4Yw51WT","date":"2025-03-25","description":"aaa","id":"87c9b31d-b2dd-4ebe-a142-3574b0b98d47"},{"title":"a","image":"https://magazine.alumni.ubc.ca/sites/default/files/styles/max_1300x1300/public/2023-09/AIart-1920x1080.jpg?itok=i4Yw51WT","date":"2025-03-13","description":"a","id":"f7ad9f64-6a75-4995-8a03-1ebd5ecc9780"},{"title":"test","image":"https://magazine.alumni.ubc.ca/sites/default/files/styles/max_1300x1300/public/2023-09/AIart-1920x1080.jpg?itok=i4Yw51WT","date":"2025-03-26","description":"test","id":"99188a18-687a-4ddc-94fb-8edbd9c537f7"},{"title":"Product new ai","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FkruTK8pJEf-UQlRnmY_B_u7s4wlkf66Rg&s","date":"2025-03-25","description":"Product new ai","id":"4cddfab8-1273-4c7f-883e-502220f0e0dc"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
